@@ -205,7 +205,7 @@ node {
     key: "else_branch"
     value {
       func {
-        name: "global_step_cond_false_7"
+        name: "global_step_cond_false_84052"
       }
     }
   }
@@ -222,7 +222,7 @@ node {
     key: "then_branch"
     value {
       func {
-        name: "global_step_cond_true_6"
+        name: "global_step_cond_true_84051"
       }
     }
   }
@@ -227287,7 +227287,7 @@ node {
     key: "else_branch"
     value {
       func {
-        name: "groupwise_dnn_v2_group_score_input_layer_zero_fraction_cond_false_6022"
+        name: "groupwise_dnn_v2_group_score_input_layer_zero_fraction_cond_false_90067"
       }
     }
   }
@@ -227304,7 +227304,7 @@ node {
     key: "then_branch"
     value {
       func {
-        name: "groupwise_dnn_v2_group_score_input_layer_zero_fraction_cond_true_6021"
+        name: "groupwise_dnn_v2_group_score_input_layer_zero_fraction_cond_true_90066"
       }
     }
   }
@@ -231482,7 +231482,7 @@ node {
     key: "else_branch"
     value {
       func {
-        name: "groupwise_dnn_v2_group_score_zero_fraction_cond_false_6166"
+        name: "groupwise_dnn_v2_group_score_zero_fraction_cond_false_90211"
       }
     }
   }
@@ -231499,7 +231499,7 @@ node {
     key: "then_branch"
     value {
       func {
-        name: "groupwise_dnn_v2_group_score_zero_fraction_cond_true_6165"
+        name: "groupwise_dnn_v2_group_score_zero_fraction_cond_true_90210"
       }
     }
   }
@@ -233973,7 +233973,7 @@ node {
     key: "else_branch"
     value {
       func {
-        name: "groupwise_dnn_v2_group_score_zero_fraction_1_cond_false_6258"
+        name: "groupwise_dnn_v2_group_score_zero_fraction_1_cond_false_90303"
       }
     }
   }
@@ -233990,7 +233990,7 @@ node {
     key: "then_branch"
     value {
       func {
-        name: "groupwise_dnn_v2_group_score_zero_fraction_1_cond_true_6257"
+        name: "groupwise_dnn_v2_group_score_zero_fraction_1_cond_true_90302"
       }
     }
   }
@@ -236464,7 +236464,7 @@ node {
     key: "else_branch"
     value {
       func {
-        name: "groupwise_dnn_v2_group_score_zero_fraction_2_cond_false_6350"
+        name: "groupwise_dnn_v2_group_score_zero_fraction_2_cond_false_90395"
       }
     }
   }
@@ -236481,7 +236481,7 @@ node {
     key: "then_branch"
     value {
       func {
-        name: "groupwise_dnn_v2_group_score_zero_fraction_2_cond_true_6349"
+        name: "groupwise_dnn_v2_group_score_zero_fraction_2_cond_true_90394"
       }
     }
   }
@@ -245859,7 +245859,7 @@ node {
     key: "else_branch"
     value {
       func {
-        name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_false_6652"
+        name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_false_90697"
       }
     }
   }
@@ -245876,7 +245876,7 @@ node {
     key: "then_branch"
     value {
       func {
-        name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_true_6651"
+        name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_true_90696"
       }
     }
   }
@@ -246140,7 +246140,7 @@ node {
     key: "else_branch"
     value {
       func {
-        name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_AssertGuard_false_6702"
+        name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_AssertGuard_false_90747"
       }
     }
   }
@@ -246157,7 +246157,7 @@ node {
     key: "then_branch"
     value {
       func {
-        name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_AssertGuard_true_6701"
+        name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_AssertGuard_true_90746"
       }
     }
   }
@@ -246748,7 +246748,7 @@ node {
     key: "else_branch"
     value {
       func {
-        name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_false_6740"
+        name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_false_90785"
       }
     }
   }
@@ -246765,7 +246765,7 @@ node {
     key: "then_branch"
     value {
       func {
-        name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_true_6739"
+        name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_true_90784"
       }
     }
   }
@@ -247035,7 +247035,7 @@ node {
     key: "else_branch"
     value {
       func {
-        name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_AssertGuard_false_6790"
+        name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_AssertGuard_false_90835"
       }
     }
   }
@@ -247052,7 +247052,7 @@ node {
     key: "then_branch"
     value {
       func {
-        name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_AssertGuard_true_6789"
+        name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_AssertGuard_true_90834"
       }
     }
   }
@@ -271615,1513 +271615,7 @@ node {
 library {
   function {
     signature {
-      name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_false_6740"
-      input_arg {
-        name: "placeholder"
-        type: DT_BOOL
-      }
-      input_arg {
-        name: "has_valid_nonscalar_shape_is_same_rank_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_values_rank"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "has_valid_nonscalar_shape_is_same_rank_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_weights_rank"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "has_valid_nonscalar_shape_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_values_shape"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "has_valid_nonscalar_shape_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_weights_shape"
-        type: DT_INT32
-      }
-      output_arg {
-        name: "has_valid_nonscalar_shape_identity"
-        type: DT_BOOL
-      }
-    }
-    node_def {
-      name: "has_valid_nonscalar_shape/is_same_rank"
-      op: "Equal"
-      input: "has_valid_nonscalar_shape_is_same_rank_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_values_rank"
-      input: "has_valid_nonscalar_shape_is_same_rank_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_weights_rank"
-      attr {
-        key: "T"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "incompatible_shape_error"
-        value {
-          b: true
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "has_valid_nonscalar_shape/is_same_rank"
-      }
-    }
-    node_def {
-      name: "has_valid_nonscalar_shape"
-      op: "StatelessIf"
-      input: "has_valid_nonscalar_shape/is_same_rank:z:0"
-      input: "has_valid_nonscalar_shape_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_values_shape"
-      input: "has_valid_nonscalar_shape_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_weights_shape"
-      input: "has_valid_nonscalar_shape/is_same_rank:z:0"
-      attr {
-        key: "Tcond"
-        value {
-          type: DT_BOOL
-        }
-      }
-      attr {
-        key: "Tin"
-        value {
-          list {
-            type: DT_INT32
-            type: DT_INT32
-            type: DT_BOOL
-          }
-        }
-      }
-      attr {
-        key: "Tout"
-        value {
-          list {
-            type: DT_BOOL
-          }
-        }
-      }
-      attr {
-        key: "_lower_using_switch_merge"
-        value {
-          b: true
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "_read_only_resource_inputs"
-        value {
-          list {
-          }
-        }
-      }
-      attr {
-        key: "else_branch"
-        value {
-          func {
-            name: "has_valid_nonscalar_shape_false_6748"
-          }
-        }
-      }
-      attr {
-        key: "output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "then_branch"
-        value {
-          func {
-            name: "has_valid_nonscalar_shape_true_6747"
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "has_valid_nonscalar_shape"
-      }
-    }
-    node_def {
-      name: "has_valid_nonscalar_shape/Identity"
-      op: "Identity"
-      input: "has_valid_nonscalar_shape:output:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_BOOL
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "has_valid_nonscalar_shape/Identity"
-      }
-    }
-    ret {
-      key: "has_valid_nonscalar_shape_identity"
-      value: "has_valid_nonscalar_shape/Identity:output:0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-          }
-          shape {
-          }
-          shape {
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 1
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 2
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 3
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 4
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "groupwise_dnn_v2_group_score_input_layer_zero_fraction_cond_true_6021"
-      input_arg {
-        name: "count_nonzero_notequal_groupwise_dnn_v2_group_score_input_layer_concat"
-        type: DT_FLOAT
-      }
-      output_arg {
-        name: "cast"
-        type: DT_INT64
-      }
-    }
-    node_def {
-      name: "count_nonzero/zeros"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_FLOAT
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_FLOAT
-            tensor_shape {
-            }
-            float_val: 0.0
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/zeros"
-      }
-    }
-    node_def {
-      name: "count_nonzero/NotEqual"
-      op: "NotEqual"
-      input: "count_nonzero_notequal_groupwise_dnn_v2_group_score_input_layer_concat"
-      input: "count_nonzero/zeros:output:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_FLOAT
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: -1
-              }
-              dim {
-                size: 136
-              }
-            }
-          }
-        }
-      }
-      attr {
-        key: "incompatible_shape_error"
-        value {
-          b: true
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/NotEqual"
-      }
-    }
-    node_def {
-      name: "count_nonzero/Cast"
-      op: "Cast"
-      input: "count_nonzero/NotEqual:z:0"
-      attr {
-        key: "DstT"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "SrcT"
-        value {
-          type: DT_BOOL
-        }
-      }
-      attr {
-        key: "Truncate"
-        value {
-          b: false
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: -1
-              }
-              dim {
-                size: 136
-              }
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/Cast"
-      }
-    }
-    node_def {
-      name: "count_nonzero/Const"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: 2
-              }
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_INT32
-            tensor_shape {
-              dim {
-                size: 2
-              }
-            }
-            tensor_content: "\000\000\000\000\001\000\000\000"
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/Const"
-      }
-    }
-    node_def {
-      name: "count_nonzero/nonzero_count"
-      op: "Sum"
-      input: "count_nonzero/Cast:y:0"
-      input: "count_nonzero/Const:output:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "Tidx"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "keep_dims"
-        value {
-          b: false
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/nonzero_count"
-      }
-    }
-    node_def {
-      name: "Cast"
-      op: "Cast"
-      input: "count_nonzero/nonzero_count:output:0"
-      attr {
-        key: "DstT"
-        value {
-          type: DT_INT64
-        }
-      }
-      attr {
-        key: "SrcT"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "Truncate"
-        value {
-          b: false
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Cast"
-      }
-    }
-    ret {
-      key: "cast"
-      value: "Cast:y:0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-            dim {
-              size: -1
-            }
-            dim {
-              size: 136
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: -1
-                }
-                dim {
-                  size: 136
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_AssertGuard_false_6790"
-      input_arg {
-        name: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_identity"
-        type: DT_BOOL
-      }
-      input_arg {
-        name: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_weights_shape"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_values_shape"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_scalar"
-        type: DT_BOOL
-      }
-      output_arg {
-        name: "identity"
-        type: DT_BOOL
-      }
-      is_stateful: true
-    }
-    node_def {
-      name: "Assert/data_0"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_STRING
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_STRING
-            tensor_shape {
-            }
-            string_val: "weights can not be broadcast to values."
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Assert/data_0"
-      }
-    }
-    node_def {
-      name: "Assert/data_1"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_STRING
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_STRING
-            tensor_shape {
-            }
-            string_val: "weights.shape="
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Assert/data_1"
-      }
-    }
-    node_def {
-      name: "Assert/data_2"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_STRING
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_STRING
-            tensor_shape {
-            }
-            string_val: "head/pairwise_logistic_loss/weighted_loss/num_present/Select:0"
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Assert/data_2"
-      }
-    }
-    node_def {
-      name: "Assert/data_4"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_STRING
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_STRING
-            tensor_shape {
-            }
-            string_val: "values.shape="
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Assert/data_4"
-      }
-    }
-    node_def {
-      name: "Assert/data_5"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_STRING
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_STRING
-            tensor_shape {
-            }
-            string_val: "head/pairwise_logistic_loss/add_1:0"
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Assert/data_5"
-      }
-    }
-    node_def {
-      name: "Assert/data_7"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_STRING
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_STRING
-            tensor_shape {
-            }
-            string_val: "is_scalar="
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Assert/data_7"
-      }
-    }
-    node_def {
-      name: "Assert"
-      op: "Assert"
-      input: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_identity"
-      input: "Assert/data_0:output:0"
-      input: "Assert/data_1:output:0"
-      input: "Assert/data_2:output:0"
-      input: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_weights_shape"
-      input: "Assert/data_4:output:0"
-      input: "Assert/data_5:output:0"
-      input: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_values_shape"
-      input: "Assert/data_7:output:0"
-      input: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_scalar"
-      attr {
-        key: "T"
-        value {
-          list {
-            type: DT_STRING
-            type: DT_STRING
-            type: DT_STRING
-            type: DT_INT32
-            type: DT_STRING
-            type: DT_STRING
-            type: DT_INT32
-            type: DT_STRING
-            type: DT_BOOL
-          }
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-          }
-        }
-      }
-      attr {
-        key: "summarize"
-        value {
-          i: 3
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Assert"
-      }
-    }
-    node_def {
-      name: "Identity"
-      op: "Identity"
-      input: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_identity"
-      input: "^Assert"
-      attr {
-        key: "T"
-        value {
-          type: DT_BOOL
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Identity"
-      }
-    }
-    ret {
-      key: "identity"
-      value: "Identity:output:0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-          shape {
-          }
-        }
-      }
-    }
-    arg_attr {
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 1
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 2
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 3
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "global_step_cond_false_7"
-      input_arg {
-        name: "placeholder"
-        type: DT_RESOURCE
-      }
-      input_arg {
-        name: "global_step_initializer_zeros_0"
-        type: DT_INT64
-      }
-      output_arg {
-        name: "global_step_initializer_zeros"
-        type: DT_INT64
-      }
-    }
-    ret {
-      key: "global_step_initializer_zeros"
-      value: "global_step_initializer_zeros_0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-            unknown_rank: true
-          }
-          shape {
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 1
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "groupwise_dnn_v2_group_score_zero_fraction_1_cond_true_6257"
-      input_arg {
-        name: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu_1"
-        type: DT_FLOAT
-      }
-      output_arg {
-        name: "cast"
-        type: DT_INT64
-      }
-    }
-    node_def {
-      name: "count_nonzero/zeros"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_FLOAT
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_FLOAT
-            tensor_shape {
-            }
-            float_val: 0.0
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/zeros"
-      }
-    }
-    node_def {
-      name: "count_nonzero/NotEqual"
-      op: "NotEqual"
-      input: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu_1"
-      input: "count_nonzero/zeros:output:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_FLOAT
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: -1
-              }
-              dim {
-                size: 8
-              }
-            }
-          }
-        }
-      }
-      attr {
-        key: "incompatible_shape_error"
-        value {
-          b: true
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/NotEqual"
-      }
-    }
-    node_def {
-      name: "count_nonzero/Cast"
-      op: "Cast"
-      input: "count_nonzero/NotEqual:z:0"
-      attr {
-        key: "DstT"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "SrcT"
-        value {
-          type: DT_BOOL
-        }
-      }
-      attr {
-        key: "Truncate"
-        value {
-          b: false
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: -1
-              }
-              dim {
-                size: 8
-              }
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/Cast"
-      }
-    }
-    node_def {
-      name: "count_nonzero/Const"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: 2
-              }
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_INT32
-            tensor_shape {
-              dim {
-                size: 2
-              }
-            }
-            tensor_content: "\000\000\000\000\001\000\000\000"
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/Const"
-      }
-    }
-    node_def {
-      name: "count_nonzero/nonzero_count"
-      op: "Sum"
-      input: "count_nonzero/Cast:y:0"
-      input: "count_nonzero/Const:output:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "Tidx"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "keep_dims"
-        value {
-          b: false
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/nonzero_count"
-      }
-    }
-    node_def {
-      name: "Cast"
-      op: "Cast"
-      input: "count_nonzero/nonzero_count:output:0"
-      attr {
-        key: "DstT"
-        value {
-          type: DT_INT64
-        }
-      }
-      attr {
-        key: "SrcT"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "Truncate"
-        value {
-          b: false
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Cast"
-      }
-    }
-    ret {
-      key: "cast"
-      value: "Cast:y:0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-            dim {
-              size: -1
-            }
-            dim {
-              size: 8
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: -1
-                }
-                dim {
-                  size: 8
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "groupwise_dnn_v2_group_score_zero_fraction_2_cond_true_6349"
-      input_arg {
-        name: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu_2"
-        type: DT_FLOAT
-      }
-      output_arg {
-        name: "cast"
-        type: DT_INT64
-      }
-    }
-    node_def {
-      name: "count_nonzero/zeros"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_FLOAT
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_FLOAT
-            tensor_shape {
-            }
-            float_val: 0.0
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/zeros"
-      }
-    }
-    node_def {
-      name: "count_nonzero/NotEqual"
-      op: "NotEqual"
-      input: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu_2"
-      input: "count_nonzero/zeros:output:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_FLOAT
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: -1
-              }
-              dim {
-                size: 4
-              }
-            }
-          }
-        }
-      }
-      attr {
-        key: "incompatible_shape_error"
-        value {
-          b: true
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/NotEqual"
-      }
-    }
-    node_def {
-      name: "count_nonzero/Cast"
-      op: "Cast"
-      input: "count_nonzero/NotEqual:z:0"
-      attr {
-        key: "DstT"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "SrcT"
-        value {
-          type: DT_BOOL
-        }
-      }
-      attr {
-        key: "Truncate"
-        value {
-          b: false
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: -1
-              }
-              dim {
-                size: 4
-              }
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/Cast"
-      }
-    }
-    node_def {
-      name: "count_nonzero/Const"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: 2
-              }
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_INT32
-            tensor_shape {
-              dim {
-                size: 2
-              }
-            }
-            tensor_content: "\000\000\000\000\001\000\000\000"
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/Const"
-      }
-    }
-    node_def {
-      name: "count_nonzero/nonzero_count"
-      op: "Sum"
-      input: "count_nonzero/Cast:y:0"
-      input: "count_nonzero/Const:output:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "Tidx"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "keep_dims"
-        value {
-          b: false
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/nonzero_count"
-      }
-    }
-    node_def {
-      name: "Cast"
-      op: "Cast"
-      input: "count_nonzero/nonzero_count:output:0"
-      attr {
-        key: "DstT"
-        value {
-          type: DT_INT64
-        }
-      }
-      attr {
-        key: "SrcT"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "Truncate"
-        value {
-          b: false
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Cast"
-      }
-    }
-    ret {
-      key: "cast"
-      value: "Cast:y:0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-            dim {
-              size: -1
-            }
-            dim {
-              size: 4
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: -1
-                }
-                dim {
-                  size: 4
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "has_valid_nonscalar_shape_false_6748"
+      name: "has_valid_nonscalar_shape_false_90793"
       input_arg {
         name: "placeholder"
         type: DT_INT32
@@ -273212,243 +271706,7 @@ library {
   }
   function {
     signature {
-      name: "groupwise_dnn_v2_group_score_zero_fraction_1_cond_false_6258"
-      input_arg {
-        name: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu_1"
-        type: DT_FLOAT
-      }
-      output_arg {
-        name: "count_nonzero_nonzero_count"
-        type: DT_INT64
-      }
-    }
-    node_def {
-      name: "count_nonzero/zeros"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_FLOAT
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_FLOAT
-            tensor_shape {
-            }
-            float_val: 0.0
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/zeros"
-      }
-    }
-    node_def {
-      name: "count_nonzero/NotEqual"
-      op: "NotEqual"
-      input: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu_1"
-      input: "count_nonzero/zeros:output:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_FLOAT
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: -1
-              }
-              dim {
-                size: 8
-              }
-            }
-          }
-        }
-      }
-      attr {
-        key: "incompatible_shape_error"
-        value {
-          b: true
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/NotEqual"
-      }
-    }
-    node_def {
-      name: "count_nonzero/Cast"
-      op: "Cast"
-      input: "count_nonzero/NotEqual:z:0"
-      attr {
-        key: "DstT"
-        value {
-          type: DT_INT64
-        }
-      }
-      attr {
-        key: "SrcT"
-        value {
-          type: DT_BOOL
-        }
-      }
-      attr {
-        key: "Truncate"
-        value {
-          b: false
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: -1
-              }
-              dim {
-                size: 8
-              }
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/Cast"
-      }
-    }
-    node_def {
-      name: "count_nonzero/Const"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: 2
-              }
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_INT32
-            tensor_shape {
-              dim {
-                size: 2
-              }
-            }
-            tensor_content: "\000\000\000\000\001\000\000\000"
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/Const"
-      }
-    }
-    node_def {
-      name: "count_nonzero/nonzero_count"
-      op: "Sum"
-      input: "count_nonzero/Cast:y:0"
-      input: "count_nonzero/Const:output:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_INT64
-        }
-      }
-      attr {
-        key: "Tidx"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "keep_dims"
-        value {
-          b: false
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/nonzero_count"
-      }
-    }
-    ret {
-      key: "count_nonzero_nonzero_count"
-      value: "count_nonzero/nonzero_count:output:0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-            dim {
-              size: -1
-            }
-            dim {
-              size: 8
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: -1
-                }
-                dim {
-                  size: 8
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "groupwise_dnn_v2_group_score_zero_fraction_cond_true_6165"
+      name: "groupwise_dnn_v2_group_score_zero_fraction_cond_true_90210"
       input_arg {
         name: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu"
         type: DT_FLOAT
@@ -273719,2106 +271977,7 @@ library {
   }
   function {
     signature {
-      name: "groupwise_dnn_v2_group_score_input_layer_zero_fraction_cond_false_6022"
-      input_arg {
-        name: "count_nonzero_notequal_groupwise_dnn_v2_group_score_input_layer_concat"
-        type: DT_FLOAT
-      }
-      output_arg {
-        name: "count_nonzero_nonzero_count"
-        type: DT_INT64
-      }
-    }
-    node_def {
-      name: "count_nonzero/zeros"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_FLOAT
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_FLOAT
-            tensor_shape {
-            }
-            float_val: 0.0
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/zeros"
-      }
-    }
-    node_def {
-      name: "count_nonzero/NotEqual"
-      op: "NotEqual"
-      input: "count_nonzero_notequal_groupwise_dnn_v2_group_score_input_layer_concat"
-      input: "count_nonzero/zeros:output:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_FLOAT
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: -1
-              }
-              dim {
-                size: 136
-              }
-            }
-          }
-        }
-      }
-      attr {
-        key: "incompatible_shape_error"
-        value {
-          b: true
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/NotEqual"
-      }
-    }
-    node_def {
-      name: "count_nonzero/Cast"
-      op: "Cast"
-      input: "count_nonzero/NotEqual:z:0"
-      attr {
-        key: "DstT"
-        value {
-          type: DT_INT64
-        }
-      }
-      attr {
-        key: "SrcT"
-        value {
-          type: DT_BOOL
-        }
-      }
-      attr {
-        key: "Truncate"
-        value {
-          b: false
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: -1
-              }
-              dim {
-                size: 136
-              }
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/Cast"
-      }
-    }
-    node_def {
-      name: "count_nonzero/Const"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: 2
-              }
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_INT32
-            tensor_shape {
-              dim {
-                size: 2
-              }
-            }
-            tensor_content: "\000\000\000\000\001\000\000\000"
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/Const"
-      }
-    }
-    node_def {
-      name: "count_nonzero/nonzero_count"
-      op: "Sum"
-      input: "count_nonzero/Cast:y:0"
-      input: "count_nonzero/Const:output:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_INT64
-        }
-      }
-      attr {
-        key: "Tidx"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "keep_dims"
-        value {
-          b: false
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/nonzero_count"
-      }
-    }
-    ret {
-      key: "count_nonzero_nonzero_count"
-      value: "count_nonzero/nonzero_count:output:0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-            dim {
-              size: -1
-            }
-            dim {
-              size: 136
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: -1
-                }
-                dim {
-                  size: 136
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_true_6651"
-      input_arg {
-        name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_scalar_0"
-        type: DT_BOOL
-      }
-      input_arg {
-        name: "placeholder"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "placeholder_1"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "placeholder_2"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "placeholder_3"
-        type: DT_INT32
-      }
-      output_arg {
-        name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_scalar"
-        type: DT_BOOL
-      }
-    }
-    ret {
-      key: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_scalar"
-      value: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_scalar_0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-          }
-          shape {
-          }
-          shape {
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 1
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 2
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 3
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 4
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "has_valid_nonscalar_shape_false_6660"
-      input_arg {
-        name: "placeholder"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "placeholder_1"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "has_valid_nonscalar_shape_is_same_rank_0"
-        type: DT_BOOL
-      }
-      output_arg {
-        name: "has_valid_nonscalar_shape_is_same_rank"
-        type: DT_BOOL
-      }
-    }
-    ret {
-      key: "has_valid_nonscalar_shape_is_same_rank"
-      value: "has_valid_nonscalar_shape_is_same_rank_0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-            dim {
-              size: 3
-            }
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-          shape {
-          }
-        }
-      }
-    }
-    arg_attr {
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 1
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 2
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_AssertGuard_true_6789"
-      input_arg {
-        name: "identity_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_identity"
-        type: DT_BOOL
-      }
-      input_arg {
-        name: "placeholder"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "placeholder_1"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "placeholder_2"
-        type: DT_BOOL
-      }
-      output_arg {
-        name: "identity"
-        type: DT_BOOL
-      }
-    }
-    node_def {
-      name: "NoOp"
-      op: "NoOp"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "NoOp"
-      }
-    }
-    node_def {
-      name: "Identity"
-      op: "Identity"
-      input: "identity_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_identity"
-      input: "^NoOp"
-      attr {
-        key: "T"
-        value {
-          type: DT_BOOL
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Identity"
-      }
-    }
-    ret {
-      key: "identity"
-      value: "Identity:output:0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-          shape {
-          }
-        }
-      }
-    }
-    arg_attr {
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 1
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 2
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 3
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "groupwise_dnn_v2_group_score_zero_fraction_2_cond_false_6350"
-      input_arg {
-        name: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu_2"
-        type: DT_FLOAT
-      }
-      output_arg {
-        name: "count_nonzero_nonzero_count"
-        type: DT_INT64
-      }
-    }
-    node_def {
-      name: "count_nonzero/zeros"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_FLOAT
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_FLOAT
-            tensor_shape {
-            }
-            float_val: 0.0
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/zeros"
-      }
-    }
-    node_def {
-      name: "count_nonzero/NotEqual"
-      op: "NotEqual"
-      input: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu_2"
-      input: "count_nonzero/zeros:output:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_FLOAT
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: -1
-              }
-              dim {
-                size: 4
-              }
-            }
-          }
-        }
-      }
-      attr {
-        key: "incompatible_shape_error"
-        value {
-          b: true
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/NotEqual"
-      }
-    }
-    node_def {
-      name: "count_nonzero/Cast"
-      op: "Cast"
-      input: "count_nonzero/NotEqual:z:0"
-      attr {
-        key: "DstT"
-        value {
-          type: DT_INT64
-        }
-      }
-      attr {
-        key: "SrcT"
-        value {
-          type: DT_BOOL
-        }
-      }
-      attr {
-        key: "Truncate"
-        value {
-          b: false
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: -1
-              }
-              dim {
-                size: 4
-              }
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/Cast"
-      }
-    }
-    node_def {
-      name: "count_nonzero/Const"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: 2
-              }
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_INT32
-            tensor_shape {
-              dim {
-                size: 2
-              }
-            }
-            tensor_content: "\000\000\000\000\001\000\000\000"
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/Const"
-      }
-    }
-    node_def {
-      name: "count_nonzero/nonzero_count"
-      op: "Sum"
-      input: "count_nonzero/Cast:y:0"
-      input: "count_nonzero/Const:output:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_INT64
-        }
-      }
-      attr {
-        key: "Tidx"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "keep_dims"
-        value {
-          b: false
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/nonzero_count"
-      }
-    }
-    ret {
-      key: "count_nonzero_nonzero_count"
-      value: "count_nonzero/nonzero_count:output:0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-            dim {
-              size: -1
-            }
-            dim {
-              size: 4
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: -1
-                }
-                dim {
-                  size: 4
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_AssertGuard_true_6701"
-      input_arg {
-        name: "identity_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_identity"
-        type: DT_BOOL
-      }
-      input_arg {
-        name: "placeholder"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "placeholder_1"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "placeholder_2"
-        type: DT_BOOL
-      }
-      output_arg {
-        name: "identity"
-        type: DT_BOOL
-      }
-    }
-    node_def {
-      name: "NoOp"
-      op: "NoOp"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "NoOp"
-      }
-    }
-    node_def {
-      name: "Identity"
-      op: "Identity"
-      input: "identity_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_identity"
-      input: "^NoOp"
-      attr {
-        key: "T"
-        value {
-          type: DT_BOOL
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Identity"
-      }
-    }
-    ret {
-      key: "identity"
-      value: "Identity:output:0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-          shape {
-          }
-        }
-      }
-    }
-    arg_attr {
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 1
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 2
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 3
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_true_6739"
-      input_arg {
-        name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_scalar_0"
-        type: DT_BOOL
-      }
-      input_arg {
-        name: "placeholder"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "placeholder_1"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "placeholder_2"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "placeholder_3"
-        type: DT_INT32
-      }
-      output_arg {
-        name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_scalar"
-        type: DT_BOOL
-      }
-    }
-    ret {
-      key: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_scalar"
-      value: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_scalar_0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-          }
-          shape {
-          }
-          shape {
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 1
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 2
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 3
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 4
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "global_step_cond_true_6"
-      input_arg {
-        name: "read_readvariableop_global_step"
-        type: DT_RESOURCE
-      }
-      input_arg {
-        name: "placeholder"
-        type: DT_INT64
-      }
-      output_arg {
-        name: "identity"
-        type: DT_INT64
-      }
-      is_stateful: true
-    }
-    node_def {
-      name: "Read/ReadVariableOp"
-      op: "ReadVariableOp"
-      input: "read_readvariableop_global_step"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_INT64
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Read/ReadVariableOp"
-      }
-    }
-    node_def {
-      name: "Identity"
-      op: "Identity"
-      input: "Read/ReadVariableOp:value:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_INT64
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Identity"
-      }
-    }
-    ret {
-      key: "identity"
-      value: "Identity:output:0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-            unknown_rank: true
-          }
-          shape {
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 1
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "groupwise_dnn_v2_group_score_zero_fraction_cond_false_6166"
-      input_arg {
-        name: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu"
-        type: DT_FLOAT
-      }
-      output_arg {
-        name: "count_nonzero_nonzero_count"
-        type: DT_INT64
-      }
-    }
-    node_def {
-      name: "count_nonzero/zeros"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_FLOAT
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_FLOAT
-            tensor_shape {
-            }
-            float_val: 0.0
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/zeros"
-      }
-    }
-    node_def {
-      name: "count_nonzero/NotEqual"
-      op: "NotEqual"
-      input: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu"
-      input: "count_nonzero/zeros:output:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_FLOAT
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: -1
-              }
-              dim {
-                size: 16
-              }
-            }
-          }
-        }
-      }
-      attr {
-        key: "incompatible_shape_error"
-        value {
-          b: true
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/NotEqual"
-      }
-    }
-    node_def {
-      name: "count_nonzero/Cast"
-      op: "Cast"
-      input: "count_nonzero/NotEqual:z:0"
-      attr {
-        key: "DstT"
-        value {
-          type: DT_INT64
-        }
-      }
-      attr {
-        key: "SrcT"
-        value {
-          type: DT_BOOL
-        }
-      }
-      attr {
-        key: "Truncate"
-        value {
-          b: false
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: -1
-              }
-              dim {
-                size: 16
-              }
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/Cast"
-      }
-    }
-    node_def {
-      name: "count_nonzero/Const"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-              dim {
-                size: 2
-              }
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_INT32
-            tensor_shape {
-              dim {
-                size: 2
-              }
-            }
-            tensor_content: "\000\000\000\000\001\000\000\000"
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/Const"
-      }
-    }
-    node_def {
-      name: "count_nonzero/nonzero_count"
-      op: "Sum"
-      input: "count_nonzero/Cast:y:0"
-      input: "count_nonzero/Const:output:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_INT64
-        }
-      }
-      attr {
-        key: "Tidx"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "keep_dims"
-        value {
-          b: false
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "count_nonzero/nonzero_count"
-      }
-    }
-    ret {
-      key: "count_nonzero_nonzero_count"
-      value: "count_nonzero/nonzero_count:output:0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-            dim {
-              size: -1
-            }
-            dim {
-              size: 16
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: -1
-                }
-                dim {
-                  size: 16
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_AssertGuard_false_6702"
-      input_arg {
-        name: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_identity"
-        type: DT_BOOL
-      }
-      input_arg {
-        name: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_weights_shape"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_values_shape"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_scalar"
-        type: DT_BOOL
-      }
-      output_arg {
-        name: "identity"
-        type: DT_BOOL
-      }
-      is_stateful: true
-    }
-    node_def {
-      name: "Assert/data_0"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_STRING
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_STRING
-            tensor_shape {
-            }
-            string_val: "weights can not be broadcast to values."
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Assert/data_0"
-      }
-    }
-    node_def {
-      name: "Assert/data_1"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_STRING
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_STRING
-            tensor_shape {
-            }
-            string_val: "weights.shape="
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Assert/data_1"
-      }
-    }
-    node_def {
-      name: "Assert/data_2"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_STRING
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_STRING
-            tensor_shape {
-            }
-            string_val: "head/pairwise_logistic_loss/Mul_3:0"
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Assert/data_2"
-      }
-    }
-    node_def {
-      name: "Assert/data_4"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_STRING
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_STRING
-            tensor_shape {
-            }
-            string_val: "values.shape="
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Assert/data_4"
-      }
-    }
-    node_def {
-      name: "Assert/data_5"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_STRING
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_STRING
-            tensor_shape {
-            }
-            string_val: "head/pairwise_logistic_loss/add_1:0"
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Assert/data_5"
-      }
-    }
-    node_def {
-      name: "Assert/data_7"
-      op: "Const"
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "dtype"
-        value {
-          type: DT_STRING
-        }
-      }
-      attr {
-        key: "value"
-        value {
-          tensor {
-            dtype: DT_STRING
-            tensor_shape {
-            }
-            string_val: "is_scalar="
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Assert/data_7"
-      }
-    }
-    node_def {
-      name: "Assert"
-      op: "Assert"
-      input: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_identity"
-      input: "Assert/data_0:output:0"
-      input: "Assert/data_1:output:0"
-      input: "Assert/data_2:output:0"
-      input: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_weights_shape"
-      input: "Assert/data_4:output:0"
-      input: "Assert/data_5:output:0"
-      input: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_values_shape"
-      input: "Assert/data_7:output:0"
-      input: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_scalar"
-      attr {
-        key: "T"
-        value {
-          list {
-            type: DT_STRING
-            type: DT_STRING
-            type: DT_STRING
-            type: DT_INT32
-            type: DT_STRING
-            type: DT_STRING
-            type: DT_INT32
-            type: DT_STRING
-            type: DT_BOOL
-          }
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-          }
-        }
-      }
-      attr {
-        key: "summarize"
-        value {
-          i: 3
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Assert"
-      }
-    }
-    node_def {
-      name: "Identity"
-      op: "Identity"
-      input: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_identity"
-      input: "^Assert"
-      attr {
-        key: "T"
-        value {
-          type: DT_BOOL
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "Identity"
-      }
-    }
-    ret {
-      key: "identity"
-      value: "Identity:output:0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-          shape {
-          }
-        }
-      }
-    }
-    arg_attr {
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 1
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 2
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 3
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_false_6652"
-      input_arg {
-        name: "placeholder"
-        type: DT_BOOL
-      }
-      input_arg {
-        name: "has_valid_nonscalar_shape_is_same_rank_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_values_rank"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "has_valid_nonscalar_shape_is_same_rank_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_weights_rank"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "has_valid_nonscalar_shape_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_values_shape"
-        type: DT_INT32
-      }
-      input_arg {
-        name: "has_valid_nonscalar_shape_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_weights_shape"
-        type: DT_INT32
-      }
-      output_arg {
-        name: "has_valid_nonscalar_shape_identity"
-        type: DT_BOOL
-      }
-    }
-    node_def {
-      name: "has_valid_nonscalar_shape/is_same_rank"
-      op: "Equal"
-      input: "has_valid_nonscalar_shape_is_same_rank_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_values_rank"
-      input: "has_valid_nonscalar_shape_is_same_rank_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_weights_rank"
-      attr {
-        key: "T"
-        value {
-          type: DT_INT32
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "incompatible_shape_error"
-        value {
-          b: true
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "has_valid_nonscalar_shape/is_same_rank"
-      }
-    }
-    node_def {
-      name: "has_valid_nonscalar_shape"
-      op: "StatelessIf"
-      input: "has_valid_nonscalar_shape/is_same_rank:z:0"
-      input: "has_valid_nonscalar_shape_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_values_shape"
-      input: "has_valid_nonscalar_shape_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_weights_shape"
-      input: "has_valid_nonscalar_shape/is_same_rank:z:0"
-      attr {
-        key: "Tcond"
-        value {
-          type: DT_BOOL
-        }
-      }
-      attr {
-        key: "Tin"
-        value {
-          list {
-            type: DT_INT32
-            type: DT_INT32
-            type: DT_BOOL
-          }
-        }
-      }
-      attr {
-        key: "Tout"
-        value {
-          list {
-            type: DT_BOOL
-          }
-        }
-      }
-      attr {
-        key: "_lower_using_switch_merge"
-        value {
-          b: true
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "_read_only_resource_inputs"
-        value {
-          list {
-          }
-        }
-      }
-      attr {
-        key: "else_branch"
-        value {
-          func {
-            name: "has_valid_nonscalar_shape_false_6660"
-          }
-        }
-      }
-      attr {
-        key: "output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      attr {
-        key: "then_branch"
-        value {
-          func {
-            name: "has_valid_nonscalar_shape_true_6659"
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "has_valid_nonscalar_shape"
-      }
-    }
-    node_def {
-      name: "has_valid_nonscalar_shape/Identity"
-      op: "Identity"
-      input: "has_valid_nonscalar_shape:output:0"
-      attr {
-        key: "T"
-        value {
-          type: DT_BOOL
-        }
-      }
-      attr {
-        key: "_output_shapes"
-        value {
-          list {
-            shape {
-            }
-          }
-        }
-      }
-      experimental_debug_info {
-        original_node_names: "has_valid_nonscalar_shape/Identity"
-      }
-    }
-    ret {
-      key: "has_valid_nonscalar_shape_identity"
-      value: "has_valid_nonscalar_shape/Identity:output:0"
-    }
-    attr {
-      key: "_input_shapes"
-      value {
-        list {
-          shape {
-          }
-          shape {
-          }
-          shape {
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-          shape {
-            dim {
-              size: 3
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 1
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 2
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 3
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    arg_attr {
-      key: 4
-      value {
-        attr {
-          key: "_output_shapes"
-          value {
-            list {
-              shape {
-                dim {
-                  size: 3
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  function {
-    signature {
-      name: "has_valid_nonscalar_shape_true_6747"
+      name: "has_valid_nonscalar_shape_true_90792"
       input_arg {
         name: "has_invalid_dims_expanddims_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_values_shape"
         type: DT_INT32
@@ -276366,7 +272525,422 @@ library {
   }
   function {
     signature {
-      name: "has_valid_nonscalar_shape_true_6659"
+      name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_false_90697"
+      input_arg {
+        name: "placeholder"
+        type: DT_BOOL
+      }
+      input_arg {
+        name: "has_valid_nonscalar_shape_is_same_rank_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_values_rank"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "has_valid_nonscalar_shape_is_same_rank_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_weights_rank"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "has_valid_nonscalar_shape_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_values_shape"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "has_valid_nonscalar_shape_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_weights_shape"
+        type: DT_INT32
+      }
+      output_arg {
+        name: "has_valid_nonscalar_shape_identity"
+        type: DT_BOOL
+      }
+    }
+    node_def {
+      name: "has_valid_nonscalar_shape/is_same_rank"
+      op: "Equal"
+      input: "has_valid_nonscalar_shape_is_same_rank_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_values_rank"
+      input: "has_valid_nonscalar_shape_is_same_rank_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_weights_rank"
+      attr {
+        key: "T"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "incompatible_shape_error"
+        value {
+          b: true
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "has_valid_nonscalar_shape/is_same_rank"
+      }
+    }
+    node_def {
+      name: "has_valid_nonscalar_shape"
+      op: "StatelessIf"
+      input: "has_valid_nonscalar_shape/is_same_rank:z:0"
+      input: "has_valid_nonscalar_shape_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_values_shape"
+      input: "has_valid_nonscalar_shape_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_weights_shape"
+      input: "has_valid_nonscalar_shape/is_same_rank:z:0"
+      attr {
+        key: "Tcond"
+        value {
+          type: DT_BOOL
+        }
+      }
+      attr {
+        key: "Tin"
+        value {
+          list {
+            type: DT_INT32
+            type: DT_INT32
+            type: DT_BOOL
+          }
+        }
+      }
+      attr {
+        key: "Tout"
+        value {
+          list {
+            type: DT_BOOL
+          }
+        }
+      }
+      attr {
+        key: "_lower_using_switch_merge"
+        value {
+          b: true
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "_read_only_resource_inputs"
+        value {
+          list {
+          }
+        }
+      }
+      attr {
+        key: "else_branch"
+        value {
+          func {
+            name: "has_valid_nonscalar_shape_false_90705"
+          }
+        }
+      }
+      attr {
+        key: "output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "then_branch"
+        value {
+          func {
+            name: "has_valid_nonscalar_shape_true_90704"
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "has_valid_nonscalar_shape"
+      }
+    }
+    node_def {
+      name: "has_valid_nonscalar_shape/Identity"
+      op: "Identity"
+      input: "has_valid_nonscalar_shape:output:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_BOOL
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "has_valid_nonscalar_shape/Identity"
+      }
+    }
+    ret {
+      key: "has_valid_nonscalar_shape_identity"
+      value: "has_valid_nonscalar_shape/Identity:output:0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+          }
+          shape {
+          }
+          shape {
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 1
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 2
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 3
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 4
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_AssertGuard_true_90834"
+      input_arg {
+        name: "identity_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_identity"
+        type: DT_BOOL
+      }
+      input_arg {
+        name: "placeholder"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "placeholder_1"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "placeholder_2"
+        type: DT_BOOL
+      }
+      output_arg {
+        name: "identity"
+        type: DT_BOOL
+      }
+    }
+    node_def {
+      name: "NoOp"
+      op: "NoOp"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "NoOp"
+      }
+    }
+    node_def {
+      name: "Identity"
+      op: "Identity"
+      input: "identity_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_identity"
+      input: "^NoOp"
+      attr {
+        key: "T"
+        value {
+          type: DT_BOOL
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Identity"
+      }
+    }
+    ret {
+      key: "identity"
+      value: "Identity:output:0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+          shape {
+          }
+        }
+      }
+    }
+    arg_attr {
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 1
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 2
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 3
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "has_valid_nonscalar_shape_true_90704"
       input_arg {
         name: "has_invalid_dims_expanddims_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_values_shape"
         type: DT_INT32
@@ -276899,6 +273473,3432 @@ library {
     }
     arg_attr {
       key: 2
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_AssertGuard_true_90746"
+      input_arg {
+        name: "identity_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_identity"
+        type: DT_BOOL
+      }
+      input_arg {
+        name: "placeholder"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "placeholder_1"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "placeholder_2"
+        type: DT_BOOL
+      }
+      output_arg {
+        name: "identity"
+        type: DT_BOOL
+      }
+    }
+    node_def {
+      name: "NoOp"
+      op: "NoOp"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "NoOp"
+      }
+    }
+    node_def {
+      name: "Identity"
+      op: "Identity"
+      input: "identity_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_identity"
+      input: "^NoOp"
+      attr {
+        key: "T"
+        value {
+          type: DT_BOOL
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Identity"
+      }
+    }
+    ret {
+      key: "identity"
+      value: "Identity:output:0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+          shape {
+          }
+        }
+      }
+    }
+    arg_attr {
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 1
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 2
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 3
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_AssertGuard_false_90835"
+      input_arg {
+        name: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_identity"
+        type: DT_BOOL
+      }
+      input_arg {
+        name: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_weights_shape"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_values_shape"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_scalar"
+        type: DT_BOOL
+      }
+      output_arg {
+        name: "identity"
+        type: DT_BOOL
+      }
+      is_stateful: true
+    }
+    node_def {
+      name: "Assert/data_0"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_STRING
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_STRING
+            tensor_shape {
+            }
+            string_val: "weights can not be broadcast to values."
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Assert/data_0"
+      }
+    }
+    node_def {
+      name: "Assert/data_1"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_STRING
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_STRING
+            tensor_shape {
+            }
+            string_val: "weights.shape="
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Assert/data_1"
+      }
+    }
+    node_def {
+      name: "Assert/data_2"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_STRING
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_STRING
+            tensor_shape {
+            }
+            string_val: "head/pairwise_logistic_loss/weighted_loss/num_present/Select:0"
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Assert/data_2"
+      }
+    }
+    node_def {
+      name: "Assert/data_4"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_STRING
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_STRING
+            tensor_shape {
+            }
+            string_val: "values.shape="
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Assert/data_4"
+      }
+    }
+    node_def {
+      name: "Assert/data_5"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_STRING
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_STRING
+            tensor_shape {
+            }
+            string_val: "head/pairwise_logistic_loss/add_1:0"
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Assert/data_5"
+      }
+    }
+    node_def {
+      name: "Assert/data_7"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_STRING
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_STRING
+            tensor_shape {
+            }
+            string_val: "is_scalar="
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Assert/data_7"
+      }
+    }
+    node_def {
+      name: "Assert"
+      op: "Assert"
+      input: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_identity"
+      input: "Assert/data_0:output:0"
+      input: "Assert/data_1:output:0"
+      input: "Assert/data_2:output:0"
+      input: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_weights_shape"
+      input: "Assert/data_4:output:0"
+      input: "Assert/data_5:output:0"
+      input: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_values_shape"
+      input: "Assert/data_7:output:0"
+      input: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_scalar"
+      attr {
+        key: "T"
+        value {
+          list {
+            type: DT_STRING
+            type: DT_STRING
+            type: DT_STRING
+            type: DT_INT32
+            type: DT_STRING
+            type: DT_STRING
+            type: DT_INT32
+            type: DT_STRING
+            type: DT_BOOL
+          }
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+          }
+        }
+      }
+      attr {
+        key: "summarize"
+        value {
+          i: 3
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Assert"
+      }
+    }
+    node_def {
+      name: "Identity"
+      op: "Identity"
+      input: "assert_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_identity"
+      input: "^Assert"
+      attr {
+        key: "T"
+        value {
+          type: DT_BOOL
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Identity"
+      }
+    }
+    ret {
+      key: "identity"
+      value: "Identity:output:0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+          shape {
+          }
+        }
+      }
+    }
+    arg_attr {
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 1
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 2
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 3
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "groupwise_dnn_v2_group_score_zero_fraction_2_cond_true_90394"
+      input_arg {
+        name: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu_2"
+        type: DT_FLOAT
+      }
+      output_arg {
+        name: "cast"
+        type: DT_INT64
+      }
+    }
+    node_def {
+      name: "count_nonzero/zeros"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_FLOAT
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_FLOAT
+            tensor_shape {
+            }
+            float_val: 0.0
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/zeros"
+      }
+    }
+    node_def {
+      name: "count_nonzero/NotEqual"
+      op: "NotEqual"
+      input: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu_2"
+      input: "count_nonzero/zeros:output:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_FLOAT
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: -1
+              }
+              dim {
+                size: 4
+              }
+            }
+          }
+        }
+      }
+      attr {
+        key: "incompatible_shape_error"
+        value {
+          b: true
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/NotEqual"
+      }
+    }
+    node_def {
+      name: "count_nonzero/Cast"
+      op: "Cast"
+      input: "count_nonzero/NotEqual:z:0"
+      attr {
+        key: "DstT"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "SrcT"
+        value {
+          type: DT_BOOL
+        }
+      }
+      attr {
+        key: "Truncate"
+        value {
+          b: false
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: -1
+              }
+              dim {
+                size: 4
+              }
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/Cast"
+      }
+    }
+    node_def {
+      name: "count_nonzero/Const"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: 2
+              }
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_INT32
+            tensor_shape {
+              dim {
+                size: 2
+              }
+            }
+            tensor_content: "\000\000\000\000\001\000\000\000"
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/Const"
+      }
+    }
+    node_def {
+      name: "count_nonzero/nonzero_count"
+      op: "Sum"
+      input: "count_nonzero/Cast:y:0"
+      input: "count_nonzero/Const:output:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "Tidx"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "keep_dims"
+        value {
+          b: false
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/nonzero_count"
+      }
+    }
+    node_def {
+      name: "Cast"
+      op: "Cast"
+      input: "count_nonzero/nonzero_count:output:0"
+      attr {
+        key: "DstT"
+        value {
+          type: DT_INT64
+        }
+      }
+      attr {
+        key: "SrcT"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "Truncate"
+        value {
+          b: false
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Cast"
+      }
+    }
+    ret {
+      key: "cast"
+      value: "Cast:y:0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+            dim {
+              size: -1
+            }
+            dim {
+              size: 4
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: -1
+                }
+                dim {
+                  size: 4
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_true_90784"
+      input_arg {
+        name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_scalar_0"
+        type: DT_BOOL
+      }
+      input_arg {
+        name: "placeholder"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "placeholder_1"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "placeholder_2"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "placeholder_3"
+        type: DT_INT32
+      }
+      output_arg {
+        name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_scalar"
+        type: DT_BOOL
+      }
+    }
+    ret {
+      key: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_scalar"
+      value: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_scalar_0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+          }
+          shape {
+          }
+          shape {
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 1
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 2
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 3
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 4
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "groupwise_dnn_v2_group_score_input_layer_zero_fraction_cond_true_90066"
+      input_arg {
+        name: "count_nonzero_notequal_groupwise_dnn_v2_group_score_input_layer_concat"
+        type: DT_FLOAT
+      }
+      output_arg {
+        name: "cast"
+        type: DT_INT64
+      }
+    }
+    node_def {
+      name: "count_nonzero/zeros"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_FLOAT
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_FLOAT
+            tensor_shape {
+            }
+            float_val: 0.0
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/zeros"
+      }
+    }
+    node_def {
+      name: "count_nonzero/NotEqual"
+      op: "NotEqual"
+      input: "count_nonzero_notequal_groupwise_dnn_v2_group_score_input_layer_concat"
+      input: "count_nonzero/zeros:output:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_FLOAT
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: -1
+              }
+              dim {
+                size: 136
+              }
+            }
+          }
+        }
+      }
+      attr {
+        key: "incompatible_shape_error"
+        value {
+          b: true
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/NotEqual"
+      }
+    }
+    node_def {
+      name: "count_nonzero/Cast"
+      op: "Cast"
+      input: "count_nonzero/NotEqual:z:0"
+      attr {
+        key: "DstT"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "SrcT"
+        value {
+          type: DT_BOOL
+        }
+      }
+      attr {
+        key: "Truncate"
+        value {
+          b: false
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: -1
+              }
+              dim {
+                size: 136
+              }
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/Cast"
+      }
+    }
+    node_def {
+      name: "count_nonzero/Const"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: 2
+              }
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_INT32
+            tensor_shape {
+              dim {
+                size: 2
+              }
+            }
+            tensor_content: "\000\000\000\000\001\000\000\000"
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/Const"
+      }
+    }
+    node_def {
+      name: "count_nonzero/nonzero_count"
+      op: "Sum"
+      input: "count_nonzero/Cast:y:0"
+      input: "count_nonzero/Const:output:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "Tidx"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "keep_dims"
+        value {
+          b: false
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/nonzero_count"
+      }
+    }
+    node_def {
+      name: "Cast"
+      op: "Cast"
+      input: "count_nonzero/nonzero_count:output:0"
+      attr {
+        key: "DstT"
+        value {
+          type: DT_INT64
+        }
+      }
+      attr {
+        key: "SrcT"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "Truncate"
+        value {
+          b: false
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Cast"
+      }
+    }
+    ret {
+      key: "cast"
+      value: "Cast:y:0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+            dim {
+              size: -1
+            }
+            dim {
+              size: 136
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: -1
+                }
+                dim {
+                  size: 136
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_AssertGuard_false_90747"
+      input_arg {
+        name: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_identity"
+        type: DT_BOOL
+      }
+      input_arg {
+        name: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_weights_shape"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_values_shape"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_scalar"
+        type: DT_BOOL
+      }
+      output_arg {
+        name: "identity"
+        type: DT_BOOL
+      }
+      is_stateful: true
+    }
+    node_def {
+      name: "Assert/data_0"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_STRING
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_STRING
+            tensor_shape {
+            }
+            string_val: "weights can not be broadcast to values."
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Assert/data_0"
+      }
+    }
+    node_def {
+      name: "Assert/data_1"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_STRING
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_STRING
+            tensor_shape {
+            }
+            string_val: "weights.shape="
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Assert/data_1"
+      }
+    }
+    node_def {
+      name: "Assert/data_2"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_STRING
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_STRING
+            tensor_shape {
+            }
+            string_val: "head/pairwise_logistic_loss/Mul_3:0"
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Assert/data_2"
+      }
+    }
+    node_def {
+      name: "Assert/data_4"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_STRING
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_STRING
+            tensor_shape {
+            }
+            string_val: "values.shape="
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Assert/data_4"
+      }
+    }
+    node_def {
+      name: "Assert/data_5"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_STRING
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_STRING
+            tensor_shape {
+            }
+            string_val: "head/pairwise_logistic_loss/add_1:0"
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Assert/data_5"
+      }
+    }
+    node_def {
+      name: "Assert/data_7"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_STRING
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_STRING
+            tensor_shape {
+            }
+            string_val: "is_scalar="
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Assert/data_7"
+      }
+    }
+    node_def {
+      name: "Assert"
+      op: "Assert"
+      input: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_identity"
+      input: "Assert/data_0:output:0"
+      input: "Assert/data_1:output:0"
+      input: "Assert/data_2:output:0"
+      input: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_weights_shape"
+      input: "Assert/data_4:output:0"
+      input: "Assert/data_5:output:0"
+      input: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_values_shape"
+      input: "Assert/data_7:output:0"
+      input: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_scalar"
+      attr {
+        key: "T"
+        value {
+          list {
+            type: DT_STRING
+            type: DT_STRING
+            type: DT_STRING
+            type: DT_INT32
+            type: DT_STRING
+            type: DT_STRING
+            type: DT_INT32
+            type: DT_STRING
+            type: DT_BOOL
+          }
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+          }
+        }
+      }
+      attr {
+        key: "summarize"
+        value {
+          i: 3
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Assert"
+      }
+    }
+    node_def {
+      name: "Identity"
+      op: "Identity"
+      input: "assert_head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_identity"
+      input: "^Assert"
+      attr {
+        key: "T"
+        value {
+          type: DT_BOOL
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Identity"
+      }
+    }
+    ret {
+      key: "identity"
+      value: "Identity:output:0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+          shape {
+          }
+        }
+      }
+    }
+    arg_attr {
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 1
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 2
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 3
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "groupwise_dnn_v2_group_score_zero_fraction_1_cond_true_90302"
+      input_arg {
+        name: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu_1"
+        type: DT_FLOAT
+      }
+      output_arg {
+        name: "cast"
+        type: DT_INT64
+      }
+    }
+    node_def {
+      name: "count_nonzero/zeros"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_FLOAT
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_FLOAT
+            tensor_shape {
+            }
+            float_val: 0.0
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/zeros"
+      }
+    }
+    node_def {
+      name: "count_nonzero/NotEqual"
+      op: "NotEqual"
+      input: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu_1"
+      input: "count_nonzero/zeros:output:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_FLOAT
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: -1
+              }
+              dim {
+                size: 8
+              }
+            }
+          }
+        }
+      }
+      attr {
+        key: "incompatible_shape_error"
+        value {
+          b: true
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/NotEqual"
+      }
+    }
+    node_def {
+      name: "count_nonzero/Cast"
+      op: "Cast"
+      input: "count_nonzero/NotEqual:z:0"
+      attr {
+        key: "DstT"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "SrcT"
+        value {
+          type: DT_BOOL
+        }
+      }
+      attr {
+        key: "Truncate"
+        value {
+          b: false
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: -1
+              }
+              dim {
+                size: 8
+              }
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/Cast"
+      }
+    }
+    node_def {
+      name: "count_nonzero/Const"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: 2
+              }
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_INT32
+            tensor_shape {
+              dim {
+                size: 2
+              }
+            }
+            tensor_content: "\000\000\000\000\001\000\000\000"
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/Const"
+      }
+    }
+    node_def {
+      name: "count_nonzero/nonzero_count"
+      op: "Sum"
+      input: "count_nonzero/Cast:y:0"
+      input: "count_nonzero/Const:output:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "Tidx"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "keep_dims"
+        value {
+          b: false
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/nonzero_count"
+      }
+    }
+    node_def {
+      name: "Cast"
+      op: "Cast"
+      input: "count_nonzero/nonzero_count:output:0"
+      attr {
+        key: "DstT"
+        value {
+          type: DT_INT64
+        }
+      }
+      attr {
+        key: "SrcT"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "Truncate"
+        value {
+          b: false
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Cast"
+      }
+    }
+    ret {
+      key: "cast"
+      value: "Cast:y:0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+            dim {
+              size: -1
+            }
+            dim {
+              size: 8
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: -1
+                }
+                dim {
+                  size: 8
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "groupwise_dnn_v2_group_score_input_layer_zero_fraction_cond_false_90067"
+      input_arg {
+        name: "count_nonzero_notequal_groupwise_dnn_v2_group_score_input_layer_concat"
+        type: DT_FLOAT
+      }
+      output_arg {
+        name: "count_nonzero_nonzero_count"
+        type: DT_INT64
+      }
+    }
+    node_def {
+      name: "count_nonzero/zeros"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_FLOAT
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_FLOAT
+            tensor_shape {
+            }
+            float_val: 0.0
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/zeros"
+      }
+    }
+    node_def {
+      name: "count_nonzero/NotEqual"
+      op: "NotEqual"
+      input: "count_nonzero_notequal_groupwise_dnn_v2_group_score_input_layer_concat"
+      input: "count_nonzero/zeros:output:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_FLOAT
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: -1
+              }
+              dim {
+                size: 136
+              }
+            }
+          }
+        }
+      }
+      attr {
+        key: "incompatible_shape_error"
+        value {
+          b: true
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/NotEqual"
+      }
+    }
+    node_def {
+      name: "count_nonzero/Cast"
+      op: "Cast"
+      input: "count_nonzero/NotEqual:z:0"
+      attr {
+        key: "DstT"
+        value {
+          type: DT_INT64
+        }
+      }
+      attr {
+        key: "SrcT"
+        value {
+          type: DT_BOOL
+        }
+      }
+      attr {
+        key: "Truncate"
+        value {
+          b: false
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: -1
+              }
+              dim {
+                size: 136
+              }
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/Cast"
+      }
+    }
+    node_def {
+      name: "count_nonzero/Const"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: 2
+              }
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_INT32
+            tensor_shape {
+              dim {
+                size: 2
+              }
+            }
+            tensor_content: "\000\000\000\000\001\000\000\000"
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/Const"
+      }
+    }
+    node_def {
+      name: "count_nonzero/nonzero_count"
+      op: "Sum"
+      input: "count_nonzero/Cast:y:0"
+      input: "count_nonzero/Const:output:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_INT64
+        }
+      }
+      attr {
+        key: "Tidx"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "keep_dims"
+        value {
+          b: false
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/nonzero_count"
+      }
+    }
+    ret {
+      key: "count_nonzero_nonzero_count"
+      value: "count_nonzero/nonzero_count:output:0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+            dim {
+              size: -1
+            }
+            dim {
+              size: 136
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: -1
+                }
+                dim {
+                  size: 136
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "groupwise_dnn_v2_group_score_zero_fraction_2_cond_false_90395"
+      input_arg {
+        name: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu_2"
+        type: DT_FLOAT
+      }
+      output_arg {
+        name: "count_nonzero_nonzero_count"
+        type: DT_INT64
+      }
+    }
+    node_def {
+      name: "count_nonzero/zeros"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_FLOAT
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_FLOAT
+            tensor_shape {
+            }
+            float_val: 0.0
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/zeros"
+      }
+    }
+    node_def {
+      name: "count_nonzero/NotEqual"
+      op: "NotEqual"
+      input: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu_2"
+      input: "count_nonzero/zeros:output:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_FLOAT
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: -1
+              }
+              dim {
+                size: 4
+              }
+            }
+          }
+        }
+      }
+      attr {
+        key: "incompatible_shape_error"
+        value {
+          b: true
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/NotEqual"
+      }
+    }
+    node_def {
+      name: "count_nonzero/Cast"
+      op: "Cast"
+      input: "count_nonzero/NotEqual:z:0"
+      attr {
+        key: "DstT"
+        value {
+          type: DT_INT64
+        }
+      }
+      attr {
+        key: "SrcT"
+        value {
+          type: DT_BOOL
+        }
+      }
+      attr {
+        key: "Truncate"
+        value {
+          b: false
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: -1
+              }
+              dim {
+                size: 4
+              }
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/Cast"
+      }
+    }
+    node_def {
+      name: "count_nonzero/Const"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: 2
+              }
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_INT32
+            tensor_shape {
+              dim {
+                size: 2
+              }
+            }
+            tensor_content: "\000\000\000\000\001\000\000\000"
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/Const"
+      }
+    }
+    node_def {
+      name: "count_nonzero/nonzero_count"
+      op: "Sum"
+      input: "count_nonzero/Cast:y:0"
+      input: "count_nonzero/Const:output:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_INT64
+        }
+      }
+      attr {
+        key: "Tidx"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "keep_dims"
+        value {
+          b: false
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/nonzero_count"
+      }
+    }
+    ret {
+      key: "count_nonzero_nonzero_count"
+      value: "count_nonzero/nonzero_count:output:0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+            dim {
+              size: -1
+            }
+            dim {
+              size: 4
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: -1
+                }
+                dim {
+                  size: 4
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_is_valid_shape_false_90785"
+      input_arg {
+        name: "placeholder"
+        type: DT_BOOL
+      }
+      input_arg {
+        name: "has_valid_nonscalar_shape_is_same_rank_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_values_rank"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "has_valid_nonscalar_shape_is_same_rank_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_weights_rank"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "has_valid_nonscalar_shape_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_values_shape"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "has_valid_nonscalar_shape_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_weights_shape"
+        type: DT_INT32
+      }
+      output_arg {
+        name: "has_valid_nonscalar_shape_identity"
+        type: DT_BOOL
+      }
+    }
+    node_def {
+      name: "has_valid_nonscalar_shape/is_same_rank"
+      op: "Equal"
+      input: "has_valid_nonscalar_shape_is_same_rank_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_values_rank"
+      input: "has_valid_nonscalar_shape_is_same_rank_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_weights_rank"
+      attr {
+        key: "T"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "incompatible_shape_error"
+        value {
+          b: true
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "has_valid_nonscalar_shape/is_same_rank"
+      }
+    }
+    node_def {
+      name: "has_valid_nonscalar_shape"
+      op: "StatelessIf"
+      input: "has_valid_nonscalar_shape/is_same_rank:z:0"
+      input: "has_valid_nonscalar_shape_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_values_shape"
+      input: "has_valid_nonscalar_shape_head_pairwise_logistic_loss_weighted_loss_num_present_broadcast_weights_assert_broadcastable_weights_shape"
+      input: "has_valid_nonscalar_shape/is_same_rank:z:0"
+      attr {
+        key: "Tcond"
+        value {
+          type: DT_BOOL
+        }
+      }
+      attr {
+        key: "Tin"
+        value {
+          list {
+            type: DT_INT32
+            type: DT_INT32
+            type: DT_BOOL
+          }
+        }
+      }
+      attr {
+        key: "Tout"
+        value {
+          list {
+            type: DT_BOOL
+          }
+        }
+      }
+      attr {
+        key: "_lower_using_switch_merge"
+        value {
+          b: true
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "_read_only_resource_inputs"
+        value {
+          list {
+          }
+        }
+      }
+      attr {
+        key: "else_branch"
+        value {
+          func {
+            name: "has_valid_nonscalar_shape_false_90793"
+          }
+        }
+      }
+      attr {
+        key: "output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "then_branch"
+        value {
+          func {
+            name: "has_valid_nonscalar_shape_true_90792"
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "has_valid_nonscalar_shape"
+      }
+    }
+    node_def {
+      name: "has_valid_nonscalar_shape/Identity"
+      op: "Identity"
+      input: "has_valid_nonscalar_shape:output:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_BOOL
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "has_valid_nonscalar_shape/Identity"
+      }
+    }
+    ret {
+      key: "has_valid_nonscalar_shape_identity"
+      value: "has_valid_nonscalar_shape/Identity:output:0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+          }
+          shape {
+          }
+          shape {
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 1
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 2
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 3
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 4
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "groupwise_dnn_v2_group_score_zero_fraction_cond_false_90211"
+      input_arg {
+        name: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu"
+        type: DT_FLOAT
+      }
+      output_arg {
+        name: "count_nonzero_nonzero_count"
+        type: DT_INT64
+      }
+    }
+    node_def {
+      name: "count_nonzero/zeros"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_FLOAT
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_FLOAT
+            tensor_shape {
+            }
+            float_val: 0.0
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/zeros"
+      }
+    }
+    node_def {
+      name: "count_nonzero/NotEqual"
+      op: "NotEqual"
+      input: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu"
+      input: "count_nonzero/zeros:output:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_FLOAT
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: -1
+              }
+              dim {
+                size: 16
+              }
+            }
+          }
+        }
+      }
+      attr {
+        key: "incompatible_shape_error"
+        value {
+          b: true
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/NotEqual"
+      }
+    }
+    node_def {
+      name: "count_nonzero/Cast"
+      op: "Cast"
+      input: "count_nonzero/NotEqual:z:0"
+      attr {
+        key: "DstT"
+        value {
+          type: DT_INT64
+        }
+      }
+      attr {
+        key: "SrcT"
+        value {
+          type: DT_BOOL
+        }
+      }
+      attr {
+        key: "Truncate"
+        value {
+          b: false
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: -1
+              }
+              dim {
+                size: 16
+              }
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/Cast"
+      }
+    }
+    node_def {
+      name: "count_nonzero/Const"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: 2
+              }
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_INT32
+            tensor_shape {
+              dim {
+                size: 2
+              }
+            }
+            tensor_content: "\000\000\000\000\001\000\000\000"
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/Const"
+      }
+    }
+    node_def {
+      name: "count_nonzero/nonzero_count"
+      op: "Sum"
+      input: "count_nonzero/Cast:y:0"
+      input: "count_nonzero/Const:output:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_INT64
+        }
+      }
+      attr {
+        key: "Tidx"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "keep_dims"
+        value {
+          b: false
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/nonzero_count"
+      }
+    }
+    ret {
+      key: "count_nonzero_nonzero_count"
+      value: "count_nonzero/nonzero_count:output:0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+            dim {
+              size: -1
+            }
+            dim {
+              size: 16
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: -1
+                }
+                dim {
+                  size: 16
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "groupwise_dnn_v2_group_score_zero_fraction_1_cond_false_90303"
+      input_arg {
+        name: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu_1"
+        type: DT_FLOAT
+      }
+      output_arg {
+        name: "count_nonzero_nonzero_count"
+        type: DT_INT64
+      }
+    }
+    node_def {
+      name: "count_nonzero/zeros"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_FLOAT
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_FLOAT
+            tensor_shape {
+            }
+            float_val: 0.0
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/zeros"
+      }
+    }
+    node_def {
+      name: "count_nonzero/NotEqual"
+      op: "NotEqual"
+      input: "count_nonzero_notequal_groupwise_dnn_v2_group_score_relu_1"
+      input: "count_nonzero/zeros:output:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_FLOAT
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: -1
+              }
+              dim {
+                size: 8
+              }
+            }
+          }
+        }
+      }
+      attr {
+        key: "incompatible_shape_error"
+        value {
+          b: true
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/NotEqual"
+      }
+    }
+    node_def {
+      name: "count_nonzero/Cast"
+      op: "Cast"
+      input: "count_nonzero/NotEqual:z:0"
+      attr {
+        key: "DstT"
+        value {
+          type: DT_INT64
+        }
+      }
+      attr {
+        key: "SrcT"
+        value {
+          type: DT_BOOL
+        }
+      }
+      attr {
+        key: "Truncate"
+        value {
+          b: false
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: -1
+              }
+              dim {
+                size: 8
+              }
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/Cast"
+      }
+    }
+    node_def {
+      name: "count_nonzero/Const"
+      op: "Const"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+              dim {
+                size: 2
+              }
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "value"
+        value {
+          tensor {
+            dtype: DT_INT32
+            tensor_shape {
+              dim {
+                size: 2
+              }
+            }
+            tensor_content: "\000\000\000\000\001\000\000\000"
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/Const"
+      }
+    }
+    node_def {
+      name: "count_nonzero/nonzero_count"
+      op: "Sum"
+      input: "count_nonzero/Cast:y:0"
+      input: "count_nonzero/Const:output:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_INT64
+        }
+      }
+      attr {
+        key: "Tidx"
+        value {
+          type: DT_INT32
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "keep_dims"
+        value {
+          b: false
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "count_nonzero/nonzero_count"
+      }
+    }
+    ret {
+      key: "count_nonzero_nonzero_count"
+      value: "count_nonzero/nonzero_count:output:0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+            dim {
+              size: -1
+            }
+            dim {
+              size: 8
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: -1
+                }
+                dim {
+                  size: 8
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "has_valid_nonscalar_shape_false_90705"
+      input_arg {
+        name: "placeholder"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "placeholder_1"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "has_valid_nonscalar_shape_is_same_rank_0"
+        type: DT_BOOL
+      }
+      output_arg {
+        name: "has_valid_nonscalar_shape_is_same_rank"
+        type: DT_BOOL
+      }
+    }
+    ret {
+      key: "has_valid_nonscalar_shape_is_same_rank"
+      value: "has_valid_nonscalar_shape_is_same_rank_0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+            dim {
+              size: 3
+            }
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+          shape {
+          }
+        }
+      }
+    }
+    arg_attr {
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 1
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 2
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_valid_shape_true_90696"
+      input_arg {
+        name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_scalar_0"
+        type: DT_BOOL
+      }
+      input_arg {
+        name: "placeholder"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "placeholder_1"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "placeholder_2"
+        type: DT_INT32
+      }
+      input_arg {
+        name: "placeholder_3"
+        type: DT_INT32
+      }
+      output_arg {
+        name: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_scalar"
+        type: DT_BOOL
+      }
+    }
+    ret {
+      key: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_scalar"
+      value: "head_pairwise_logistic_loss_weighted_loss_assert_broadcastable_is_scalar_0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+          }
+          shape {
+          }
+          shape {
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+          shape {
+            dim {
+              size: 3
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 1
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 2
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 3
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 4
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+                dim {
+                  size: 3
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "global_step_cond_true_84051"
+      input_arg {
+        name: "read_readvariableop_global_step"
+        type: DT_RESOURCE
+      }
+      input_arg {
+        name: "placeholder"
+        type: DT_INT64
+      }
+      output_arg {
+        name: "identity"
+        type: DT_INT64
+      }
+      is_stateful: true
+    }
+    node_def {
+      name: "Read/ReadVariableOp"
+      op: "ReadVariableOp"
+      input: "read_readvariableop_global_step"
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      attr {
+        key: "dtype"
+        value {
+          type: DT_INT64
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Read/ReadVariableOp"
+      }
+    }
+    node_def {
+      name: "Identity"
+      op: "Identity"
+      input: "Read/ReadVariableOp:value:0"
+      attr {
+        key: "T"
+        value {
+          type: DT_INT64
+        }
+      }
+      attr {
+        key: "_output_shapes"
+        value {
+          list {
+            shape {
+            }
+          }
+        }
+      }
+      experimental_debug_info {
+        original_node_names: "Identity"
+      }
+    }
+    ret {
+      key: "identity"
+      value: "Identity:output:0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+            unknown_rank: true
+          }
+          shape {
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 1
+      value {
+        attr {
+          key: "_output_shapes"
+          value {
+            list {
+              shape {
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  function {
+    signature {
+      name: "global_step_cond_false_84052"
+      input_arg {
+        name: "placeholder"
+        type: DT_RESOURCE
+      }
+      input_arg {
+        name: "global_step_initializer_zeros_0"
+        type: DT_INT64
+      }
+      output_arg {
+        name: "global_step_initializer_zeros"
+        type: DT_INT64
+      }
+    }
+    ret {
+      key: "global_step_initializer_zeros"
+      value: "global_step_initializer_zeros_0"
+    }
+    attr {
+      key: "_input_shapes"
+      value {
+        list {
+          shape {
+            unknown_rank: true
+          }
+          shape {
+          }
+        }
+      }
+    }
+    arg_attr {
+      key: 1
       value {
         attr {
           key: "_output_shapes"
