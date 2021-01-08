@@ -14032,9 +14032,9 @@ node {
             size: 3
           }
         }
+        string_val: "shuffle_and_repeat_fusion"
         string_val: "noop_elimination"
         string_val: "map_and_batch_fusion"
-        string_val: "shuffle_and_repeat_fusion"
       }
     }
   }
